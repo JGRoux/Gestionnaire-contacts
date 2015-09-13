@@ -3,7 +3,7 @@ Gestionnaire-contacts
 
 Implémentation d'un gestionnaire de contacts avec GTK+
 
-Contributeurs:
+**Contributeurs:**
 - Lionel Grondin
 - Jean-Guillaume Roux
 
